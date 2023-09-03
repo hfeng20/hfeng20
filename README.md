@@ -1,5 +1,5 @@
 # Harry Feng
 
-Currently a senior at The Wheeler School in Providence, RI
+CS, Math, Statistics @ WashU
 
 ```Computer Scientist```
