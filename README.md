@@ -29,6 +29,4 @@ Software engineer and builder writing thoughtful, fast, and reliable software.
 
 ---
 
-[Website](https://fengharry.com) • [LinkedIn](https://www.linkedin.com/in/harryfeng/) • [Email](mailto:fengharryt@gmail.com)
-
----
+****[Website](https://fengharry.com) • [LinkedIn](https://www.linkedin.com/in/harryfeng/) • [Email](mailto:fengharryt@gmail.com)****
