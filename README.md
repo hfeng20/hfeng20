@@ -3,6 +3,8 @@
 ### B.S Computer Science + Math w/ minors in Economics, Entrepreneurship
 Software engineer and builder writing thoughtful, fast, and reliable software.
 
+**** Building [StatSlam](https://statsl.am) • [Quintin](https://quintin.ai) ****
+
 ---
 
 ### Languages/Tools/Skills
